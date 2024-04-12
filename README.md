@@ -1,1 +1,2 @@
-# c390
+#Github
+This is my first dummy project.
